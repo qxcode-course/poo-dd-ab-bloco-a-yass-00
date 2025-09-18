@@ -1,0 +1,31 @@
+2025-09-16 17:17:53, MOVE, v:1, k:carro, mode:DOWN
+2025-09-16 17:18:03, MOVE, v:1, k:carro, mode:PICK
+2025-09-16 17:19:31, MOVE, v:1, k:carro, mode:BACK
+2025-09-16 17:19:35, MOVE, v:1, k:calculadora, mode:DOWN
+2025-09-16 17:19:35, MOVE, v:1, k:calculadora, mode:PICK
+2025-09-16 17:24:35, EXEC, v:1, k:calculadora, mode:FULL, rate:0, size:0
+2025-09-16 17:26:09, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-09-16 17:26:53, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-09-16 17:27:41, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-09-16 17:28:24, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-09-16 17:29:05, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-09-16 17:29:28, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-09-16 17:29:39, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-09-16 17:29:48, EXEC, v:1, k:calculadora, mode:FULL, rate:0
+2025-09-16 17:30:30, MOVE, v:1, k:calculadora, mode:BACK
+2025-09-16 17:54:56, SELF, v:1, k:git_pratica
+2025-09-16 17:54:59, MOVE, v:1, k:toalha, mode:DOWN
+2025-09-16 17:55:01, MOVE, v:1, k:toalha, mode:PICK
+2025-09-16 18:13:15, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:9
+2025-09-16 18:13:35, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:10
+2025-09-16 18:13:48, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:10
+2025-09-16 18:13:55, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:10
+2025-09-16 18:15:49, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:10
+2025-09-16 18:17:59, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:11
+2025-09-16 18:22:20, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:14
+2025-09-16 18:22:56, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:14
+2025-09-16 18:23:30, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:13
+2025-09-16 18:27:28, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:18
+2025-09-16 18:27:48, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:18
+2025-09-16 18:29:10, EXEC, v:1, k:toalha, mode:LOCK, rate:0
+2025-09-16 18:29:11, EXEC, v:1, k:toalha, mode:LOCK, rate:0

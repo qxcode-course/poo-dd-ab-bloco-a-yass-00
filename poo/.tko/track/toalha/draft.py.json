@@ -1,0 +1,59 @@
+{
+    "patches": [
+        {
+            "label": "2025-09-16_18-13-15",
+            "content": "@@ -200,17 +200,16 @@\n %22, %22G%22)%0A\n-%0A\n print(ve\n",
+            "lines": "9"
+        },
+        {
+            "label": "2025-09-16_18-13-35",
+            "content": "@@ -194,10 +194,10 @@\n (%22bl\n-u\n e\n+u\n %22, %22\n",
+            "lines": "10"
+        },
+        {
+            "label": "2025-09-16_18-13-48",
+            "content": "@@ -229,23 +229,22 @@\n )%0Aprint(verm\n-e\n lha.size)_\n",
+            "lines": "10"
+        },
+        {
+            "label": "2025-09-16_18-13-55",
+            "content": "@@ -243,8 +243,9 @@\n ha.size)\n+_\n",
+            "lines": "10"
+        },
+        {
+            "label": "2025-09-16_18-15-49",
+            "content": "@@ -149,66 +149,13 @@\n = 0%0A\n-        print(f%22estou criando uma toalha %7Bcolor%7D, de%22)%0Atoa\n+verme\n lha \n@@ -178,16 +178,12 @@\n M%22)%0A\n-toalhona\n+azul\n  = T\n@@ -203,27 +203,29 @@\n %22G%22)%0A%0Aprint(\n-toa\n+verme\n lha.color)%0Ap\n@@ -233,11 +233,13 @@\n int(\n-toa\n+verme\n lha.\n",
+            "lines": "10"
+        },
+        {
+            "label": "2025-09-16_18-17-59",
+            "content": "@@ -201,138 +201,10 @@\n , de\n- tamanhp %7Bsize%7D, umidade %7Bint%7D%22)%0Adef __str__(self) -%3E str:%0A    return f%22Cor:%7Bself.color%7D, Tam:%5Bself.size, Umidade:%7Bself.wetness%7D%22%0A\n+%22)\n %0Atoa\n",
+            "lines": "11"
+        },
+        {
+            "label": "2025-09-16_18-22-20",
+            "content": "@@ -212,16 +212,31 @@\n p %7Bsize%7D\n+, umidade %7Bint%7D\n %22)%0Adef _\n",
+            "lines": "14"
+        },
+        {
+            "label": "2025-09-16_18-22-56",
+            "content": "@@ -383,9 +383,34 @@\n t(toalha\n+.color)%0Aprint(toalha.size\n )\n",
+            "lines": "14"
+        },
+        {
+            "label": "2025-09-16_18-23-30",
+            "content": "@@ -219,72 +219,8 @@\n %7D%22)%0A\n-def dry(self, amount: int) _%3E None:%0A    self.wetness += amount%0A%0A\n def \n@@ -344,51 +344,38 @@\n M%22)%0A\n-%0Aprint(toalha)%0Atoalha.dry(5)%0Atoalha.dry(15)\n+toalhona = Towel(%22blue%22, %22G%22)%0A\n %0Apri\n",
+            "lines": "13"
+        },
+        {
+            "label": "2025-09-16_18-27-28",
+            "content": "@@ -242,17 +242,17 @@\n t: int) \n--\n+_\n %3E None:%0A\n",
+            "lines": "18"
+        },
+        {
+            "label": "2025-09-16_18-27-48",
+            "content": "class Towel:\n    def __init__(self, color: str, size: str):\n        self.color: str = color\n        self.size: str = size\n        self.wetness: int = 0\n        print(f\"estou criando uma toalha {color}, de tamanhp {size}\")\ndef dry(self, amount: int) -> None:\n    self.wetness += amount\n\ndef __str__(self) -> str:\n    return f\"Cor:{self.color}, Tam:[self.size, Umidade:{self.wetness}\"\n\ntoalha = Towel(\"red\", \"M\")\n\nprint(toalha)\ntoalha.dry(5)\ntoalha.dry(15)\nprint(toalha)",
+            "lines": "18"
+        }
+    ]
+}
