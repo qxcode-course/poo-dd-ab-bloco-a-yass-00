@@ -18,3 +18,5 @@
 2025-10-02 15:10:28, EXEC, v:1, k:animal, mode:FULL, rate:100, size:55
 2025-10-02 15:10:54, MOVE, v:1, k:animal, mode:BACK
 2025-10-02 15:11:27, SELF, v:1, k:animal, rate:100, human:_, study:45
+2025-10-02 15:12:32, SELF, v:1, k:animal, rate:100, human:_, alone:5, study:45
+2025-10-02 15:12:42, SELF, v:1, k:enxugar, rate:100, human:_, alone:1, study:180
