@@ -1,0 +1,20 @@
+2025-10-02 13:58:49, MOVE, v:1, k:animal, mode:DOWN
+2025-10-02 13:58:55, MOVE, v:1, k:animal, mode:PICK
+2025-10-02 14:10:53, MOVE, v:1, k:animal, mode:BACK
+2025-10-02 14:56:09, MOVE, v:1, k:animal, mode:PICK
+2025-10-02 14:56:14, EXEC, v:1, k:animal, mode:FULL, rate:0, size:54
+2025-10-02 14:56:29, MOVE, v:1, k:animal, mode:BACK
+2025-10-02 14:57:27, MOVE, v:1, k:animal, mode:PICK
+2025-10-02 14:57:28, EXEC, v:1, k:animal, mode:FULL, rate:0
+2025-10-02 15:00:07, EXEC, v:1, k:animal, mode:FULL, rate:0, size:53
+2025-10-02 15:00:51, EXEC, v:1, k:animal, mode:FULL, rate:0, size:53
+2025-10-02 15:01:18, EXEC, v:1, k:animal, mode:FULL, rate:0, size:55
+2025-10-02 15:02:14, EXEC, v:1, k:animal, mode:FULL, rate:25, size:55
+2025-10-02 15:03:08, EXEC, v:1, k:animal, mode:FULL, rate:25, size:55
+2025-10-02 15:03:23, EXEC, v:1, k:animal, mode:FULL, rate:25
+2025-10-02 15:05:50, EXEC, v:1, k:animal, mode:FULL, rate:50, size:55
+2025-10-02 15:06:31, EXEC, v:1, k:animal, mode:FULL, rate:50, size:55
+2025-10-02 15:09:38, EXEC, v:1, k:animal, mode:FULL, rate:50, size:55
+2025-10-02 15:10:28, EXEC, v:1, k:animal, mode:FULL, rate:100, size:55
+2025-10-02 15:10:54, MOVE, v:1, k:animal, mode:BACK
+2025-10-02 15:11:27, SELF, v:1, k:animal, rate:100, human:_, study:45
