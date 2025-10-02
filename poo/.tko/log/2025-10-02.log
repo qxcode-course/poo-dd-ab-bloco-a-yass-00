@@ -20,3 +20,14 @@
 2025-10-02 15:11:27, SELF, v:1, k:animal, rate:100, human:_, study:45
 2025-10-02 15:12:32, SELF, v:1, k:animal, rate:100, human:_, alone:5, study:45
 2025-10-02 15:12:42, SELF, v:1, k:enxugar, rate:100, human:_, alone:1, study:180
+2025-10-02 15:13:13, MOVE, v:1, k:calculadora, mode:PICK
+2025-10-02 16:10:50, EXEC, v:1, k:calculadora, mode:FULL, rate:9, size:61
+2025-10-02 16:13:04, EXEC, v:1, k:calculadora, mode:FULL, rate:45, size:64
+2025-10-02 16:14:31, EXEC, v:1, k:calculadora, mode:FULL, rate:72, size:65
+2025-10-02 16:15:52, EXEC, v:1, k:calculadora, mode:FULL, rate:72, size:65
+2025-10-02 16:16:17, EXEC, v:1, k:calculadora, mode:FULL, rate:72, size:65
+2025-10-02 16:16:27, MOVE, v:1, k:calculadora, mode:BACK
+2025-10-02 16:16:56, MOVE, v:1, k:calculadora, mode:PICK
+2025-10-02 16:16:59, EXEC, v:1, k:calculadora, mode:FULL, rate:72
+2025-10-02 16:19:05, EXEC, v:1, k:calculadora, mode:FULL, rate:0, size:64
+2025-10-02 16:19:28, EXEC, v:1, k:calculadora, mode:FULL, rate:100, size:64
