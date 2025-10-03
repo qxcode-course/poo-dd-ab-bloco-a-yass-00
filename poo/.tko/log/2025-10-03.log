@@ -1,0 +1,8 @@
+2025-10-03 07:58:12, MOVE, v:1, k:carro, mode:PICK
+2025-10-03 07:58:13, EXEC, v:1, k:carro, mode:FULL, rate:0, size:74
+2025-10-03 07:58:21, MOVE, v:1, k:carro, mode:BACK
+2025-10-03 07:59:13, MOVE, v:1, k:carro, mode:PICK
+2025-10-03 08:00:16, MOVE, v:1, k:carro, mode:PICK
+2025-10-03 08:00:19, EXEC, v:1, k:carro, mode:FULL, rate:100, size:72
+2025-10-03 08:00:27, MOVE, v:1, k:carro, mode:BACK
+2025-10-03 08:00:48, SELF, v:1, k:carro, rate:100, human:_, alone:7, study:60

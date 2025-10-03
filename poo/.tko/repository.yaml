@@ -6,6 +6,7 @@ expanded:
 - bloco_b-primeiras-classes
 tasks:
   animal: '{rate:100, human:_, alone:5, study:45}'
+  carro: '{rate:100, human:_, alone:7, study:60}'
   calculadora: '{rate:100, human:_, alone:6, study:40}'
   enxugar: '{rate:100, human:_, alone:1, study:180}'
 flags:
